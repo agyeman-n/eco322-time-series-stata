@@ -1,6 +1,6 @@
-# Time Series Econometrics in Stata (ECO 322, Princeton, Fall 2026)
+# Time Series Econometrics in Stata
 
-Stata code and output from my problem sets for ECO 322, Econometric Tools for Research in Macroeconomics. Each folder has the do-file and the log it produced. Shared with the instructor's permission.
+Stata code and output from my work for a course in Econometric Tools for Research in Macroeconomics. Each folder has the do-file and the log it produced.
 
 | Folder | Topic | Methods |
 |---|---|---|
